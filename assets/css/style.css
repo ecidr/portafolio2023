@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Caveat&display=swap');
+
+body{
+    background-color: whitesmoke !important;
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+}
+.borde{
+    margin-right: solid 8px  blue  !important;
+}
+.nav-item{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.navbar-brand{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+.navbar-brand:hover{
+    color: #00bbff;
+    cursor: pointer;
+}
+li{
+    border: solid 1px rgb(134, 134, 134);
+    max-height: 100px;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover {
+    color: #00bbff;
+    cursor: pointer;
+}
+.card-img{
+    opacity: 20%;
+}
+.card{
+    height: auto;
+    width: auto;
+}
+.card-img-top{
+    height: auto;
+    width: auto;
+}
+.rounded-circle{
+    padding: 15px;
+}
+.logo-contacto{
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    margin-left: 80px;
+    
+}
+.contacto{
+    display: flex;
+    margin: auto;
+}
+footer{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 50%;
+    
+}
