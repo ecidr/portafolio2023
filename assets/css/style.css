@@ -64,3 +64,7 @@ footer{
     font-size: 50%;
     
 }
+.row{
+    display: flex;
+    margin: auto;
+}
